@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrLerich
+- 👋 Hi, I’m Larin Valera @MrLerich
 - 👀 I’m interested in IT
-- 🌱 I’m currently studying at Skypro: Python developer course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Since feb 2022 I’m studying at Skypro: Python developer course
+- 💞️ I'm saving my study works and some intresting for me things at this storage 
+- 📫 You can reach me by telegram [@mrlerich] 
 
 <!---
 MrLerich/MrLerich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
