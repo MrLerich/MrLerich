@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Larin Valera @MrLerich
 - 👀 I’m interested in IT
-- 🌱 I’m studying at Skypro: Python developer course since feb 2022 
+- 🌱 I’m started learn Python in feb 2022 
 - 💞️ I'm saving my study works and some intresting for me things at this storage 
 - 📫 You can reach me by telegram [@mrlerich] 
 
